@@ -1,4 +1,2 @@
-my first session in git
- second change
-modifies
-hola
+import json
+import datetime
