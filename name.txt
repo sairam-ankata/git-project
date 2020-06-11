@@ -1,2 +1,6 @@
 li = ['hello','google']
+<<<<<<< HEAD
 for elm in li
+=======
+cool
+>>>>>>> cf0ccf857d150e7e1ffb42b27dbabc2044e36076
